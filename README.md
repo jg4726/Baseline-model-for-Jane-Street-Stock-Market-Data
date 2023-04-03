@@ -9,7 +9,7 @@ This repository contains the Jupyter Notebook BaselineModels.ipynb, which provid
 5. License
 
 # Installatiuon:
-1. git clone https://github.com/jg4726/public-file.git
+1. git clone 
 2. Launch Jupyter Notebook
 # Usage
 1. Open the BaselineModels.ipynb file in Jupyter Notebook.
