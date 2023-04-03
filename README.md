@@ -1,4 +1,4 @@
-# Baseline-model-for-image-detection
+# Baseline-model-for-Jane-Street-Stock-market-Data
 
 This repository contains the Jupyter Notebook BaselineModels.ipynb, which provides an implementation of various baseline machine learning models for a specific classification task. This code is designed to be used as a starting point for beginners who want to gain familiarity with the process of training and evaluating different models.
 # Table of Contents
